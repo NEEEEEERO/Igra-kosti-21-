@@ -2,7 +2,7 @@
 # Лабораторная работа №1
 Диаграмма прецедентов "Игра в кости (21)" и описание
 
-![Logo](diagram.png)
+![Logo]([diagram.png](https://imgur.com/a/HqKeYky))
 
 ***
 
