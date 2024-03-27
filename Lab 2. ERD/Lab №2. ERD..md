@@ -1,7 +1,7 @@
 # Лабораторная работа №2. ERD.
 ## Игра в кости (21)
 ---
-![Logo](https://github.com/NEEEEEERO/lab1_21/blob/main/Lab1/diagram/Diagram.png?raw=true)
+![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab%202.%20ERD/ERD.png?raw=true)
 
 ### Игра
 ---
