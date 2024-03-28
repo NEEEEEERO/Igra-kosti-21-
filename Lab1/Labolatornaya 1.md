@@ -2,7 +2,7 @@
 # Лабораторная работа №1
 Диаграмма прецедентов "Игра в кости (21)" и описание
 
-![Logo](https://github.com/NEEEEEERO/lab1_21/blob/main/Lab1/diagram/Diagram.png?raw=true)
+![Logo](https://github.com/NEEEEEERO/Igra-kosti-21-/blob/main/Lab1/diagram/DiagramCorrect.png?raw=true)
 
 ***
 
