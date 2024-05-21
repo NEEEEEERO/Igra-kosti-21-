@@ -1,4 +1,4 @@
-![image](https://github.com/NEEEEEERO/Igra-kosti-21-/assets/100015793/bf3ed836-c478-4efd-9907-f9801a41edc1)# Лабораторная работа №2. ERD.
+Лабораторная работа №2. ERD.
 ## Игра в кости (21)
 ---
 ![Logo](https://raw.githubusercontent.com/NEEEEEERO/Igra-kosti-21-/main/Lab%202.%20ERD/2%20lab.png)
