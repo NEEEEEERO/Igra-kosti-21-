@@ -1,0 +1,11 @@
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\bin\Debug\GameRTIPPO.exe.config
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\bin\Debug\GameRTIPPO.exe
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\bin\Debug\GameRTIPPO.pdb
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.csproj.AssemblyReference.cache
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.Form1.resources
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.Properties.Resources.resources
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.csproj.GenerateResource.cache
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.csproj.CoreCompileInputs.cache
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.exe
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.pdb
+G:\Учеба\РТиППО\Game\GameRTIPPO\GameRTIPPO\obj\Debug\GameRTIPPO.GamePlayForm.resources
